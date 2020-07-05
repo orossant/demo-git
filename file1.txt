@@ -1,2 +1,2 @@
 ceci est file1.txt:wq
-maj
+maj maj
